@@ -12,7 +12,7 @@ Tenha o *git*, *make* e o compilador *c++* instalado na sua maquina.
 
 Para clonar:
 
-`git clone https://gitlab.com/brunocmo/ep1.git`
+`git clone https://github.com/EDAII/Lista6_BrunoNunes_GuilhermeBotelho.git`
 
 Para compilar o programa:
 
